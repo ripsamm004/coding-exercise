@@ -1,0 +1,15 @@
+#Files to be ignored
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.DS_Store
+
+#Directories to be ignored
+.idea/
+.idea/vsc.xml
+.idea/workspace.xml
+log/
+private/
+target/
