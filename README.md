@@ -9,15 +9,15 @@
 
 ## Installation
 ```
-  > git clone https://ripsamm004@bitbucket.org/gamesys_careers/coding-exercise.git
-  > cd coding-exercise
+  > git clone https://github.com/ripsamm004/coding-exercise.git
+  > cd registration-service
   > mvn clean install
 
 ```
 
 ## Run the server
 ```
- > java -jar target/coding-exercise-1.0-SNAPSHOT.jar
+ > java -jar target/registration-service-1.0-SNAPSHOT.jar
 ```
 
 ## REST service running on port [8081]
