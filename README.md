@@ -1,5 +1,6 @@
 # Registration Service (Web Application)
 Ref: https://www.javadevjournal.com/spring/rest-web-services-bascis/
+validation: https://www.javadevjournal.com/spring/spring-rest-api-validation/
 
 ## Requirements
 
